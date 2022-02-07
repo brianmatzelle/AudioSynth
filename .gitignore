@@ -1,0 +1,13 @@
+
+.vscode/settings.json
+lenny.code-workspace
+bin/__pycache__/Envelope.cpython-38.pyc
+bin/__pycache__/Filter.cpython-38.pyc
+bin/__pycache__/Waveform.cpython-38.pyc
+bin/__pycache__/Frequency.cpython-38.pyc
+bin/__pycache__/Style.cpython-38.pyc
+bin/__pycache__/controller.cpython-38.pyc
+*.pyc
+imagetest.py
+bin/filterSample.py
+./assets/scores.json
